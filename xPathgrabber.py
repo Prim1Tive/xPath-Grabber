@@ -1,4 +1,4 @@
-t('''example: xPathgrabber.py {URL} {XPATH} {--hidden for 'hidden' content}\n\n''')
+t('''example:python3 xPathgrabber.py {URL} {XPATH} {--hidden for 'hidden' content}\n\n''')
 
 from lxml import html
 import requests
